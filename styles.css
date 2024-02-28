@@ -1,0 +1,25 @@
+.container {
+    width: 400px; /* Adjust the width as needed */
+    margin: 50px auto 0; /* Center horizontally and add top margin for spacing */
+
+}
+#color-box {
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    border: 2px solid black;
+
+}
+
+#change-color-btn {
+ font-size: 20px;
+ background-color: rgb(247, 213, 168);
+ cursor: pointer;
+ color: black;
+ border: none;
+ border-radius: 5px;
+ padding: 10px 20px;
+ margin-top: 20px;
+ margin-left: 15px;
+
+}
